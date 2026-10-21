@@ -1,1 +1,1 @@
-A small HTTP FastMCP app for user greetings
+A small FastMCP app for user greetings
