@@ -1,7 +1,7 @@
 [project]
 name = "greet-app"
 version = "0.1.0"
-description = "Add your description here"
+description = "A small HTTP FastMCP app for user greetings"
 readme = "README.md"
 authors = [
     { name = "DooneyGit", email = "dooneytrue@gmail.com" }
