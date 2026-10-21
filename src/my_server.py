@@ -2,8 +2,7 @@ from prefab_ui.app import PrefabApp
 from prefab_ui.components import Column, Heading, Text, Badge, Row
 from fastmcp import FastMCP
 
-mcp = FastMCP("My MCP Server")
-
+mcp = FastMCP("Greet App")
 
 @mcp.tool(app=True)
 def greet(name: str) -> PrefabApp:

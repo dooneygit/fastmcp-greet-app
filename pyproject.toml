@@ -1,5 +1,5 @@
 [project]
-name = "mcp-test"
+name = "greet-app"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-mcp-test = "mcp_test:main"
+greet-app = "greet_test:main"
 
 [build-system]
 requires = ["uv_build>=0.13.3,<0.14.0"]
